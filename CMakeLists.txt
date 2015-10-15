@@ -54,7 +54,8 @@ add_message_files(
    gr_BallReplacement.msg
    SSL_DetectionFrame.msg
    SSL_DetectionRobot.msg
-   SSL_DetectionBall.msg 
+   SSL_DetectionBall.msg
+   BeliefState.msg
  )
 
 ## Generate services in the 'srv' folder
