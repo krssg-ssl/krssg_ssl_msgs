@@ -54,9 +54,7 @@ add_message_files(
    gr_BallReplacement.msg
    SSL_DetectionFrame.msg
    SSL_DetectionRobot.msg
-   SSL_DetectionBall.msg
-   BeliefState.msg
-   TacticPacket.msg
+   SSL_DetectionBall.msg 
    SSL_Refbox.msg
  )
 
