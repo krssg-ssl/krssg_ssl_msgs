@@ -56,6 +56,7 @@ add_message_files(
    SSL_DetectionRobot.msg
    SSL_DetectionBall.msg
    BeliefState.msg
+   TacticPacket.msg
  )
 
 ## Generate services in the 'srv' folder
