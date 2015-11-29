@@ -58,6 +58,9 @@ add_message_files(
    BeliefState.msg
    TacticPacket.msg
    SSL_Refbox.msg
+   sslDebug_Line.msg
+   sslDebug_Circle.msg
+   sslDebug_Data.msg
  )
 
 ## Generate services in the 'srv' folder

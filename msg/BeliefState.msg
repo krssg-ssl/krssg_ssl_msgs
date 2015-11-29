@@ -4,7 +4,8 @@ bool               isteamyellow
 uint32             frame_number 
 float64            t_capture     
 float64            t_sent   
-geometry_msgs/Pose2D  ballPos         
+geometry_msgs/Pose2D  ballPos       
+geometry_msgs/Point32 ballVel  
 geometry_msgs/Pose2D[] awayPos 
 geometry_msgs/Pose2D[] homePos
 bool ballDetected
